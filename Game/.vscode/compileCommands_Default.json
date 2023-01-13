@@ -1,0 +1,32 @@
+[
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\MPManager\\Source\\MPManager\\MPManager.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_Default\\MPManager.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\MPManager\\Source\\MPManager\\Private\\MPManager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_Default\\MPManager.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\MPManager\\Source\\MPManager\\Public\\MPManager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_Default\\MPManager.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Source\\PSM\\PSM.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_Default\\PSM.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Source\\PSM\\PSM.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_Default\\PSM.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Source\\PSM\\PSM.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_Default\\PSM.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

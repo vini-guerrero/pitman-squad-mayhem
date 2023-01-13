@@ -76,3 +76,6 @@ DerivedDataCache/*
 # Engine Cache
 Content/__ExternalObjects__/*
 Content/__ExternalActors__/*
+
+# Custom Plugin
+Plugins/MPManager
