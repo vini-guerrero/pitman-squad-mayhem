@@ -1,32 +1,272 @@
 [
 	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedExternalUILibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedFriendsGameInstance.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedFriendsInterface.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedFriendsLibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedGameSession.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedIdentityLibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedSessions.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedSessionsLibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedVoiceLibrary.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AutoLoginUserCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\BlueprintDataDefinitions.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\CancelFindSessionsCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\CreateSessionCallbackProxyAdvanced.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\EndSessionCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\FindFriendSessionCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\FindSessionsCallbackProxyAdvanced.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\GetFriendsCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\GetRecentPlayersCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\GetUserPrivilegeCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\LoginUserCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\LogoutUserCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\OnlineSubSystemHeader.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\SendFriendInviteCallbackProxy.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\StartSessionCallbackProxyAdvanced.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\UpdateSessionCallbackProxyAdvanced.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedExternalUILibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedFriendsGameInstance.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedFriendsInterface.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedFriendsLibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedIdentityLibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedSessions.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedSessionsLibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedVoiceLibrary.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AutoLoginUserCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\CancelFindSessionsCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\CreateSessionCallbackProxyAdvanced.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\EndSessionCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\FindFriendSessionCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\FindSessionsCallbackProxyAdvanced.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\GetFriendsCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\GetRecentPlayersCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\GetUserPrivilegeCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\LoginUserCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\LogoutUserCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\SendFriendInviteCallbackProxy.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\StartSessionCallbackProxyAdvanced.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\UpdateSessionCallbackProxyAdvanced.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\AdvancedSessions.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\MPManager\\Source\\MPManager\\MPManager.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\MPManager.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\MPManager.45.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\MPManager\\Source\\MPManager\\Private\\MPManager.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\MPManager.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\MPManager.45.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Plugins\\MPManager\\Source\\MPManager\\Public\\MPManager.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\MPManager.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\MPManager.45.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Source\\PSM\\PSM.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\PSM.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\PSM.213.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Source\\PSM\\PSM.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\PSM.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\PSM.213.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\Source\\PSM\\PSM.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\PSM.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\vinny\\Desktop\\Game\\pitman-squad-mayhem\\Game\\.vscode\\compileCommands_PSM\\PSM.213.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	}
 ]
